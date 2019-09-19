@@ -1,12 +1,21 @@
 
 
 # git
-<<<<<<< HEAD
+
+changed second time 4
+
+
 
 changed first time
 
-changed second time
-
-=======
 changed second time 2
->>>>>>> branch1
+
+
+changed second time 3
+
+
+changed second time 5
+
+changed second time 6
+
+
